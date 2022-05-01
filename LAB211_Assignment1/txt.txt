@@ -1,0 +1,1 @@
+ID: A, name: A, weight: 2 gram(s), type: A, place: A, expired date: 13/12/2021
